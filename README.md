@@ -7,5 +7,6 @@ Contiene:
 
 ## TODO
 
-Funcionalidad con Javascript
+* Funcionalidad con Javascript
+* Archivos PHP para el backend
 
